@@ -1,4 +1,4 @@
-# NetworkDiag – Outil de diagnostic réseau (Projet BTS CIEL)
+# ReseauDiag – Outil de diagnostic réseau (Projet BTS CIEL)
 
 ReseauDiag est un outil simple de diagnostic réseau réalisé dans le cadre de mon BTS CIEL.  
 Il permet d’effectuer rapidement les tests réseau les plus courants grâce à une interface graphique claire et accessible.
